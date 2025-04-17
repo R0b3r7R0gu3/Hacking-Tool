@@ -79,4 +79,22 @@ pip install psutil
 # 6. Avvia il tool:
 python main.py
 
+---
+
+## 🧠 Funzionalità del Tool
+
+Questo tool offre una raccolta di strumenti di sicurezza e monitoraggio:
+
+| Modulo               | Descrizione                                                       |
+|----------------------|-------------------------------------------------------------------|
+| 🔍 Monitoraggio Sistema  | Mostra CPU, RAM, e processi attivi.                             |
+| 🎹 Keylogger            | Registra i tasti premuti in background.                          |
+| 🌐 Sniffer di Rete      | Cattura pacchetti sulla rete locale.                             |
+| 🔐 Brute Force Login    | Tenta un attacco brute force su login (esempio educational).     |
+| 🛡️ Vulnerability Scanner | Scansiona porte e cerca vulnerabilità note.                      |
+| 🎣 Simulatore Phishing  | Simula pagine di login per scopi dimostrativi.                   |
+| 📡 Cracking Wi-Fi       | Simula il cracking di reti Wi-Fi (funziona solo su Linux root).   |
+| 🔏 Monitoraggio Privacy | Verifica la presenza di dati personali esposti online.           |
+
+> ⚠️ **ATTENZIONE:** Questo progetto è solo a scopo didattico. Non usarlo per attività non etiche o illegali.
 
