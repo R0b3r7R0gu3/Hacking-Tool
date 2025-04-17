@@ -1,85 +1,66 @@
-## 🛠️ Installazione
-
----
-
-### 🪟 Windows (PowerShell)
-
-```powershell
-# 1. Installa Python (se non già presente):
-#    Scaricalo da https://www.python.org/downloads/ e segui le istruzioni.
-
-# 2. Clona il repository:
+# =========================================
+# WINDOWS (PowerShell)
+# =========================================
+# 1. Clona il repository
 git clone https://github.com/R0b3r7R0gu3/Hacking-Tool.git
 cd Hacking-Tool
 
-# 3. Crea un ambiente virtuale:
+# 2. Crea un ambiente virtuale
 python -m venv .venv
 
-# 4. Attiva l'ambiente virtuale:
-.\.venv\Scripts\Activate
+# 3. Attiva l’ambiente virtuale
+.\.venv\Scripts\Activate.ps1
 
-# 5. Installa le dipendenze:
+# 4. Installa le dipendenze
 pip install -r requirements.txt
 
-# 6. (Solo se necessario) Installa manualmente psutil:
-pip install psutil
-
-# 7. Avvia il tool:
+# 5. Avvia lo strumento
 python main.py
 
----
-## 🐧 KALI LINUX
 
-# 1. Installa Python, pip e Git:
+# =========================================
+# KALI LINUX / Debian-based
+# =========================================
+# 1. Aggiorna il sistema
 sudo apt update && sudo apt upgrade -y
+
+# 2. Installa Python e Git
 sudo apt install python3 python3-pip git -y
 
-# 2. Clona il repository:
+# 3. Clona il repository
 git clone https://github.com/R0b3r7R0gu3/Hacking-Tool.git
 cd Hacking-Tool
 
-# 3. Crea un ambiente virtuale:
+# 4. (Opzionale) Crea e attiva un ambiente virtuale
 python3 -m venv .venv
-
-# 4. Attiva l'ambiente virtuale:
 source .venv/bin/activate
 
-# 5. Installa le dipendenze:
+# 5. Installa le dipendenze
 pip install -r requirements.txt
 
-# 6. (Solo se necessario) Installa manualmente psutil:
-pip install psutil
+# 6. Avvia lo strumento
+python3 main.py
 
-# 7. Avvia il tool:
-python main.py
 
----
-
-## >_ TERMUX
-
-# 1. Installa Python e Git:
+# =========================================
+# TERMUX (Android)
+# =========================================
+# 1. Aggiorna Termux
 pkg update && pkg upgrade -y
+
+# 2. Installa Python e Git
 pkg install python git -y
 
-# 2. Clona il repository:
+# 3. Clona il repository
 git clone https://github.com/R0b3r7R0gu3/Hacking-Tool.git
 cd Hacking-Tool
 
-# 3. (Opzionale) Crea un ambiente virtuale:
-#    pkg install python-virtualenv -y
-#    virtualenv .venv
-#    source .venv/bin/activate
-
-# 4. Installa le dipendenze:
+# 4. Installa le dipendenze
 pip install -r requirements.txt
 
-# 5. (Solo se necessario) Installa manualmente psutil:
-pip install psutil
-
-# 6. Avvia il tool:
+# 5. Avvia lo strumento
 python main.py
 
----
 
 ## 🧠 Funzionalità del Tool
 
