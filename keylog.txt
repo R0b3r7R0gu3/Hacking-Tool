@@ -77,3 +77,18 @@
 2025-04-17 15:08:52,725: Key i pressed
 2025-04-17 15:08:52,935: Key l pressed
 2025-04-17 15:08:56,301: Special key Key.space pressed
+2025-04-17 15:14:47,266: Key c pressed
+2025-04-17 15:14:47,448: Key i pressed
+2025-04-17 15:14:47,593: Key a pressed
+2025-04-17 15:14:47,751: Key o pressed
+2025-04-17 15:15:00,151: Key c pressed
+2025-04-17 15:15:00,230: Key i pressed
+2025-04-17 15:15:00,401: Key o pressed
+2025-04-17 15:15:01,264: Special key Key.backspace pressed
+2025-04-17 15:15:01,404: Special key Key.backspace pressed
+2025-04-17 15:15:01,547: Special key Key.backspace pressed
+2025-04-17 15:15:01,704: Special key Key.backspace pressed
+2025-04-17 15:15:02,439: Key c pressed
+2025-04-17 15:15:02,546: Key i pressed
+2025-04-17 15:15:02,721: Key a pressed
+2025-04-17 15:15:02,846: Key o pressed
