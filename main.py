@@ -1,4 +1,6 @@
+import psutil
 from tools import system_tools, keylogger, sniffer, brute_force, vuln_scanner, phishing_sim, wifi_cracker, privacy_leak
+
 
 def menu():
     print("\n🔥 MULTI TOOLBOX 🔥")

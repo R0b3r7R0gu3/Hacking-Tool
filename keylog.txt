@@ -1,0 +1,79 @@
+2025-04-17 15:04:59,291: Key c pressed
+2025-04-17 15:04:59,963: Key i pressed
+2025-04-17 15:05:00,200: Key s pressed
+2025-04-17 15:05:00,222: Key i pressed
+2025-04-17 15:05:00,441: Key i pressed
+2025-04-17 15:05:00,473: Key s pressed
+2025-04-17 15:05:00,578: Key s pressed
+2025-04-17 15:05:00,614: Key i pressed
+2025-04-17 15:05:00,711: Key s pressed
+2025-04-17 15:05:00,757: Key i pressed
+2025-04-17 15:05:01,152: Key s pressed
+2025-04-17 15:05:16,356: Key c pressed
+2025-04-17 15:05:16,537: Key i pressed
+2025-04-17 15:05:16,788: Key a pressed
+2025-04-17 15:05:17,040: Key o pressed
+2025-04-17 15:05:17,837: Special key Key.space pressed
+2025-04-17 15:05:18,030: Key c pressed
+2025-04-17 15:05:18,189: Key o pressed
+2025-04-17 15:05:18,454: Key m pressed
+2025-04-17 15:05:18,615: Key e pressed
+2025-04-17 15:05:18,773: Special key Key.space pressed
+2025-04-17 15:05:18,868: Key s pressed
+2025-04-17 15:05:19,152: Key t pressed
+2025-04-17 15:05:19,536: Key a pressed
+2025-04-17 15:05:19,742: Key i pressed
+2025-04-17 15:05:20,105: Special key Key.shift pressed
+2025-04-17 15:05:20,568: Key ? pressed
+2025-04-17 15:05:31,306: Key n pressed
+2025-04-17 15:05:49,491: Special key Key.ctrl_l pressed
+2025-04-17 15:05:49,594: Key  pressed
+2025-04-17 15:05:50,939: Special key Key.ctrl_l pressed
+2025-04-17 15:05:51,318: Key  pressed
+2025-04-17 15:05:55,231: Special key Key.ctrl_l pressed
+2025-04-17 15:05:55,580: Key  pressed
+2025-04-17 15:05:56,231: Special key Key.ctrl_l pressed
+2025-04-17 15:05:56,567: Key  pressed
+2025-04-17 15:05:56,882: Key  pressed
+2025-04-17 15:05:57,990: Key ù pressed
+2025-04-17 15:05:58,744: Special key Key.backspace pressed
+2025-04-17 15:06:03,051: Special key Key.backspace pressed
+2025-04-17 15:06:39,086: Key s pressed
+2025-04-17 15:06:39,169: Key f pressed
+2025-04-17 15:06:39,312: Key f pressed
+2025-04-17 15:06:39,390: Key e pressed
+2025-04-17 15:06:39,579: Key g pressed
+2025-04-17 15:06:39,752: Key g pressed
+2025-04-17 15:06:39,831: Key e pressed
+2025-04-17 15:06:39,894: Key r pressed
+2025-04-17 15:06:40,019: Key g pressed
+2025-04-17 15:06:40,115: Key s pressed
+2025-04-17 15:06:40,123: Key e pressed
+2025-04-17 15:06:40,209: Key f pressed
+2025-04-17 15:06:40,268: Key s pressed
+2025-04-17 15:06:40,361: Key f pressed
+2025-04-17 15:06:40,425: Key s pressed
+2025-04-17 15:06:56,453: Special key Key.alt_l pressed
+2025-04-17 15:06:56,784: Special key Key.space pressed
+2025-04-17 15:06:56,940: Special key Key.space pressed
+2025-04-17 15:06:57,084: Special key Key.space pressed
+2025-04-17 15:07:01,581: Key c pressed
+2025-04-17 15:07:01,990: Key f pressed
+2025-04-17 15:07:02,162: Key f pressed
+2025-04-17 15:07:02,336: Key f pressed
+2025-04-17 15:07:02,527: Key d pressed
+2025-04-17 15:07:02,678: Key s pressed
+2025-04-17 15:07:02,835: Key d pressed
+2025-04-17 15:07:02,883: Key b pressed
+2025-04-17 15:07:03,066: Key g pressed
+2025-04-17 15:07:03,227: Key b pressed
+2025-04-17 15:08:43,678: Special key Key.enter pressed
+2025-04-17 15:08:45,515: Key i pressed
+2025-04-17 15:08:45,779: Key m pressed
+2025-04-17 15:08:51,405: Key p pressed
+2025-04-17 15:08:52,145: Key s pressed
+2025-04-17 15:08:52,354: Key u pressed
+2025-04-17 15:08:52,606: Key t pressed
+2025-04-17 15:08:52,725: Key i pressed
+2025-04-17 15:08:52,935: Key l pressed
+2025-04-17 15:08:56,301: Special key Key.space pressed
